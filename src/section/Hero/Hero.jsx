@@ -7,7 +7,7 @@ import linkedinlight from '../../assets/linkedin-light.svg';
 import linkedindark from '../../assets/linkedin-dark.svg';
 import Gitlight from '../../assets/github-light.svg';
 import Gitdark from '../../assets/github-dark.svg'
-import cv from '../../assets/SanthoshMathavanR.pdf';
+import cv from '../../assets/SanthoshMathavanRResume.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
